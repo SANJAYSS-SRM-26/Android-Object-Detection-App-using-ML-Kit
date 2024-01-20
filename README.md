@@ -19,7 +19,10 @@
   AndroidX Libraries
   ExifInterface for image orientation correction
 
-# Note: Ensure that appropriate permissions for camera usage are granted on the device.
+# Note: 
+  Ensure that appropriate permissions for camera usage are granted on the device.
+  https://github.com/SANJAYSS-SRM-26/Android-Object-Detection-App-using-ML-Kit/blob/main/MainActivity.kt ----> Source Code for the Application
+
 
 # Contributing:
   Contributions to this project are welcome. Feel free to open issues, suggest improvements, or submit pull requests.
