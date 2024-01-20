@@ -21,6 +21,7 @@
 
 # Note: 
   Ensure that appropriate permissions for camera usage are granted on the device.
+  <br>
   https://github.com/SANJAYSS-SRM-26/Android-Object-Detection-App-using-ML-Kit/blob/main/MainActivity.kt ----> Source Code for the Application
 
 
